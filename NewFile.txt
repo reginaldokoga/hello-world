@@ -10,8 +10,13 @@ This is line 1
 This is line 2
 
 
-<<<<<<< HEAD
-Master
-=======
-OOfkdnsknfkldn
->>>>>>> Tete_New_Branch
+Line3
+Line4
+Line5
+
+
+More lines:
+1
+2
+3
+3
