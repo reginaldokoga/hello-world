@@ -20,3 +20,6 @@ More lines:
 2
 3
 3
+commit A
+commit B
+commit C
